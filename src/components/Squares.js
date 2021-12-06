@@ -64,7 +64,7 @@ export default function Squares() {
             >
             </div>
           )
-        }
+        }  
       </div>
     </div>
   );
